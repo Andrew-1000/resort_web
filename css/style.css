@@ -104,3 +104,19 @@ body {
   margin-right: 10px;
   margin-left: 20px;
 }
+.accom-cont {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: 80px 300px;
+  gap: 5px;
+  background-color: rgba(0, 0, 0, 0.863);
+  padding: 15px;
+}
+.accom-cont > div {
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  background-color: white;
+  font-family: 'Sulphur Point', sans-serif;
+  
+}
