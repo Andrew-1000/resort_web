@@ -1,4 +1,4 @@
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen {
   body {
     background-image: url(../images/voyager.jpg);
     position: relative;
@@ -135,5 +135,17 @@
     background-color: white;
     font-family: 'Sulphur Point', sans-serif;
     
+  }
+  .button {
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    align-content: center;
+    margin-right: 300px;
+
   }
 }
