@@ -21,5 +21,5 @@ This is a website that has been designed with the latest version of CSS and HTML
 8. Click on it and it will open the website
 
 # Links
-This <a href = "#"> Link </a> will Open the Deployed Website directly
-This will open the <a href = "#"> Github repository </a> of the project
+1. This <a href = "https://andrew-1000.github.io/resort_web"> Link </a> will Open the Deployed Website directly.
+2. This will open the <a href = "https://github.com/Andrew-1000/resort_web"> Github repository </a> of the project
